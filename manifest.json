@@ -1,0 +1,7 @@
+{
+	"name": "Message Logger",
+	"version": "2.4.8",
+	"description": "Prevents messages from being deleted or purged. Also saves attachments from deleted messages for you to view later.",
+	"author": "Lighty",
+	"license": "UNLICENSED"
+}
